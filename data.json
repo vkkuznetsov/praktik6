@@ -1,0 +1,9 @@
+{
+  "h_name": "Супер дефолтный вопрос",
+  "blocks": [
+      {"title": "1 ответ", "content": "Ответ первый", "is_active": true},
+      {"title": "2 ответ", "content": "Ответ точно не первый", "is_active": false},
+      {"title": "3 ответ", "content": "НЕ знаю что писать. текст", "is_active": true},
+      {"title": "4 ответ", "content": "веб технологии", "is_active": false}
+  ]
+}
